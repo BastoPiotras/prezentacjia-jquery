@@ -1,0 +1,18 @@
+body {
+    padding-bottom: 50px;
+    transition: background 0.3s;
+}
+
+.error {
+    color: red;
+    font-size: 0.85rem;
+    margin-top: 5px;
+}
+
+input.error {
+    border: 1px solid red;
+}
+
+#addBtn {
+    transition: all 0.2s ease-in-out;
+}
